@@ -1,4 +1,4 @@
-Configuration ContosoWebsite
+Configuration Webserver
 {
   param ($MachineName)
 
